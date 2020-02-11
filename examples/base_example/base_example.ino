@@ -1,6 +1,4 @@
 #include <Arduino.h>
-
-#include "sensirion_common.h"
 #include "sgp30.h"
 
 
